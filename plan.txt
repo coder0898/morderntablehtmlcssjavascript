@@ -1,0 +1,18 @@
+Javascript Table Assignment Plan
+
+Requirement:
+1.Table populated by API call.
+2.Mordern UI design with Responsivness.
+3.Sorting filter by Column.
+4.Live search filter.(start with normal search)
+
+Task:
+
+1. Create Mordern UI responsive table with API call.
+
+to show in table column head
+id
+username
+email
+phone
+city
